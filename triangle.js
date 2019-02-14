@@ -13,7 +13,7 @@ else if(){
   alert("It is not a triangle ")
 }
 else {
-  alert("It is an isosceles triangle")
+  alert("It is an scalene triangle")
 }
 }
 
