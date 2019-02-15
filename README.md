@@ -2,7 +2,7 @@
 #### Triangle detector,  Fri 15 Feb 2019
 #### By Roy Gicheru
 ## Description
-This is an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all according to the user's input.It's good to note that I've assumed that a triangle is "Not A Triangle" if the sum of any two sides of the triangle is equal to or less than the third remaining side.
+This is an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all according to the user's input.It's good to note that I've assumed that a triangle is "Not A Triangle" if the sum of any two sides of the triangle is equal to or less than the third remaining side. A link to my live site is https://roygicheru.github.io/triangle-tracker/
 ## Setup/Installation Requirements
 * A reliable internet connection
 * LINUX UBUNTU operating system installed
