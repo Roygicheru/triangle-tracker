@@ -11,6 +11,20 @@ This is an application that will help us know whether a triangle is isosceles, e
 * Atom text editor
 * A js fiddle account
 * Google chrome and ready access to It's console
+## BDD
+* The program recognises an Equilateral Triangle:
+   * Input Example: 7 7 7
+   * Output Example: It is an equilateral triangle
+* The program recognises an Isosceles Triangle:
+   * Input Example: 5 5 8
+   * Output Example: It is an isosceles triangle
+* The program recognises a Scalene Triangle:
+   * Input Example: 9 4 5
+   * Output Example: It is a scalene triangle
+* The program also recognises a Non-definite Triangle:
+   * Input Example: 1 67 5
+   * Output Example: It is not a triangle
+
 ## Known Bugs
 No known bugs but the website is still in development.
 ## Technologies Used
