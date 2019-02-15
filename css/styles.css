@@ -7,15 +7,19 @@ color: lightblue;
 font-weight: 400;
 font-size: 80px;
 font-style: oblique;
+float: none;
+padding-left: 10px;
 }
 h2 {
   color: yellowgreen;
   font-size: 40px;
   font-style: italic;
+  padding-left: 10px;
 }
 p {
   color: lightgreen;
   font-size: 30px;
+  padding-left: 10px;
 }
 #wow {
   background-color: purple;
@@ -23,6 +27,7 @@ p {
   height: 50px;
   border-radius: 50%;
   font-weight: bolder;
+  float: none;
   color: yellow;
 
 }
