@@ -1,4 +1,4 @@
-# Triangle-track
+# Triangle-tracker
 #### Triangle detector,  Fri 15 Feb 2019
 #### By Roy Gicheru
 ## Description
