@@ -3,7 +3,7 @@ function findResult() {
   var b = prompt("sideB");
   var c = prompt("sideC");
 
-if( sideA === sideB && sideA === sideA && sideB === sideC);{
+if( sideA === sideB && sideA === sideC && sideB === sideC);{
   alert("It is an equilateral triangle ");
 }
 }
