@@ -8,7 +8,7 @@ if( sideA === sideB && sideA === sideC && sideB === sideC);{
 }
 }
 
- else if(){
+ else if(sideA === sideB || sideA === sideC || sideB === sideC){
   alert("It is an isosceles triangle ");
 }
 
