@@ -1,26 +1,28 @@
-@@keyframes body {
-  0% {background-color: lightgreen;}
-  25% {background-color: lightgreen;}
-  50% {background-color: yellowgreen;}
-  100% {background-color: yellowgreen;}
-}
-div {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  animation-name: wow;
-  animation-duration: 4s;
-}
 body {
-  background-color: lightgreen;
   text-align: center;
+  background-image:url("../image/wallpaper.jpg");
 }
 h1 {
-color: darkgreen;
+color: lightblue;
 font-weight: 400;
 font-size: 80px;
+font-style: oblique;
 }
 h2 {
-  color: green;
+  color: yellowgreen;
   font-size: 40px;
+  font-style: italic;
+}
+p {
+  color: lightgreen;
+  font-size: 20px;
+}
+#wow {
+  background-color: purple;
+  font-size: 30px;
+  height: 50px;
+  border-radius: 50%;
+  font-weight: bolder;
+  color: yellow;
+
 }
