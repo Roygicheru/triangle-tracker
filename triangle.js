@@ -1,17 +1,21 @@
-function findResult(){
-  var a = parseInt(prompt("side a"));
-  var b = prompt("side b");
-  var c = prompt("side c");
+function findResult() {
+  var a = prompt("sideA");
+  var b = prompt("sideB");
+  var c = prompt("sideC");
 
-if(side a === side b && side a === side c && side b === side c){
+if( sideA === sideB && sideA === sideA && sideB === sideC);{
   alert("It is an equilateral triangle ");
 }
+}
+
  else if(){
   alert("It is an isosceles triangle ");
 }
+
 else if(){
   alert("It is not a triangle ");
 }
+
 else {
   alert("It is an scalene triangle");
 }
