@@ -1,0 +1,26 @@
+@@keyframes body {
+  0% {background-color: lightgreen;}
+  25% {background-color: lightgreen;}
+  50% {background-color: yellowgreen;}
+  100% {background-color: yellowgreen;}
+}
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: wow;
+  animation-duration: 4s;
+}
+body {
+  background-color: lightgreen;
+  text-align: center;
+}
+h1 {
+color: darkgreen;
+font-weight: 400;
+font-size: 80px;
+}
+h2 {
+  color: green;
+  font-size: 40px;
+}
